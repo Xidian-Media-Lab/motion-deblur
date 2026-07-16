@@ -1,1 +1,3 @@
 # motion-deblur
+<img width="2467" height="1175" alt="framework1" src="https://github.com/user-attachments/assets/4de15d2c-03f6-4a41-a5bc-3c6d55c63ec9" />
+Whole architecture of the proposed fusion network of VIS and NIR images for motion deblurring of long exposure images. The fusion network can be divided into three branches: two feature extraction branches and one reconstruction branch.  The two feature extraction branches are composed of four feature extraction modules, while the reconstruction branch is used to reconstruct a fused image layer by layer. The attention module is used to select features between the feature extraction branch and the reconstruction branch.
