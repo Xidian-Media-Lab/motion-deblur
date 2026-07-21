@@ -5,6 +5,7 @@
 - Python=3.8.12
 - Pytorch=1.10.2
 - numpy=1.21.2
+- matlab R2018b (only for evaluation)
 
 ## How to Use
 ## Test
@@ -15,4 +16,4 @@ python test.py
 python train.py
 
 ## Evaluation
-[SF, ] = 
+function [SF, Qabf, VIF, EN, MI, FMI_pixel, FMI_dct, FMI_w] = fusion_metrics(image_f,image_nir,image_vis)
