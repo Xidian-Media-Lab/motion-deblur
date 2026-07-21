@@ -2,13 +2,17 @@
 <img width="1327" height="967" alt="GA" src="https://github.com/user-attachments/assets/d5f7e78b-4f0a-482b-abe0-4a096e6b1a5d" />
 
 ## Enviroments
-- [ ] Python=3.8.12
-- [ ] Pytorch=1.10.2
-- [ ] numpy=1.21.2
+- Python=3.8.12
+- Pytorch=1.10.2
+- numpy=1.21.2
 
 ## How to Use
 ## Test
+python correction.py \
+python test.py
 
 ## Train
+python train.py
 
 ## Evaluation
+[SF, ] = 
