@@ -1,3 +1,20 @@
-Training dataset download (about 1GB): 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Training Dataset Download</title>
+</head>
 
-https://drive.google.com/file/d/1he7AlkJIxz45BHw1ggQfE-63YqHoDXs5/view?usp=drive_link
+<body>
+
+<h1>Dataset Download</h1>
+
+<p>Our dataset can be downloaded from the link below.</p>
+
+<a href="https://drive.google.com/file/d/1he7AlkJIxz45BHw1ggQfE-63YqHoDXs5/view?usp=drive_link"
+   target="_blank">
+    Download Dataset
+</a>
+
+</body>
+</html>
