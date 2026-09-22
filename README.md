@@ -17,3 +17,13 @@ python train.py
 
 ## Evaluation
 function [SF, Qabf, VIF, EN, MI, FMI_pixel, FMI_dct, FMI_w] = fusion_metrics(image_f,image_nir,image_vis)
+
+## Citation
+```bash
+@article{jung2026motion,
+  title={Motion Deblurring of Long Exposure Images in Low Light Condition by Selective Fusion of Visible and Near Infrared Images},
+  author={Jung, Cheolkon and Liu, Xu and Wu, Shaochong and Han, Jiang},
+  journal={Engineering Applications of Artificial Intelligence},
+  year = {2026},
+  publisher={Elsevier}
+}
