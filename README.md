@@ -21,9 +21,9 @@ function [SF, Qabf, VIF, EN, MI, FMI_pixel, FMI_dct, FMI_w] = fusion_metrics(ima
 ## Citation
 ```bash
 @article{jung2026motion,
-  title={Motion Deblurring of Long Exposure Images in Low Light Condition by Selective Fusion of Visible and Near Infrared Images},
-  author={Jung, Cheolkon and Liu, Xu and Wu, Shaochong and Han, Jiang},
-  journal={Engineering Applications of Artificial Intelligence},
+  title = {Motion Deblurring of Long Exposure Images in Low Light Condition by Selective Fusion of Visible and Near Infrared Images},
+  author = {Jung, Cheolkon and Liu, Xu and Wu, Shaochong and Han, Jiang},
+  journal = {Engineering Applications of Artificial Intelligence},
   year = {2026},
-  publisher={Elsevier}
+  publisher = {Elsevier}
 }
